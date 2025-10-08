@@ -34,7 +34,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	padding: 0 10px;
 }
 .custom .total, .custom .duration {
-	background: #444;
+	background: #f0c;
 	float: left;
 	width: 49%;
 	text-align: center;
@@ -77,9 +77,9 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	position: relative;
 	border: 1px;
 	padding: 10px;
-	color: #fff;
+	color: #f0c;
 	text-overflow: ellipsis;
-	background: #888;
+	background: #f0c;
 	padding-right: 55px;
 	padding-left: 55px;
 	font-size: 15px;
@@ -110,18 +110,18 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 }
 .custom .options li .number {
 	padding: 5px 10px;
-	background: #333;
+	background: #f0c;
 	position: absolute;
 	top: 5px;
 	left: 10px;
 }
 .custom .options li .bar {
-	background: #444;
+	background: #f0c;
 	height: 5px;
 	margin-top: 5px;
 }
 .custom .options li .bar .bar-inner {
-	background: #fff;
+	background: #f0c;
 	height: 100%;
 	width: 0;
 	transition: width 1s;

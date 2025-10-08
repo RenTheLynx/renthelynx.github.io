@@ -79,14 +79,14 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	height: 35px;
 }
 
-/* Elementi opzioni generali */
+/* Opzioni generali */
 .custom .options li {
 	position: relative;
 	border: 1px solid transparent;
 	padding: 10px;
 	color: #FFF;
 	text-overflow: ellipsis;
-	background: #E6807F;  /* usiamo il “grigio più scuro” qui */
+	background: #E6807F;  /* ← era #888 */
 	padding-right: 55px;
 	padding-left: 55px;
 	font-size: 15px;
@@ -124,7 +124,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 
 .custom .options li .number {
 	padding: 5px 10px;
-	background: #E65;   /* cambiato da #333 a primario */
+	background: #E65;  /* ← era #333 */
 	position: absolute;
 	top: 5px;
 	left: 10px;
